@@ -1,5 +1,0 @@
-{{#user}
-Name: Ujjwal Ghosh
-Skills: ReactJs, HTML, CSS, Javascript, TailwindCSS
-Email: ghoshujjwal196@gmail.com
-{{/user}}
